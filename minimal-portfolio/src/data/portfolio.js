@@ -7,7 +7,7 @@ export default [
   },
   {
     title: "Mini Developer Portfolio",
-    imgUrl: "/assets/MiniPortfolio.jpg",
+    imgUrl: "/assets/Mini.jpg",
     stack: ["React", "TailwindCSS", "Vite"],
     link: "https://github.com/tqnam2002/MinimalPortfolio",
   },
