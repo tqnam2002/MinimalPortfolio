@@ -1,4 +1,5 @@
 import React from 'react'
+import Title from './Title'
 
 function Contact() {
   return (
@@ -9,6 +10,7 @@ function Contact() {
           className='flex flex-col w-full md:w-7/12'
           method='POST'
         >  
+        <Title>Contact</Title>
           <input type="text" name='name' placeholder='Name' className='p-2 border-2 roudned-md bg-transparent focus: outline-none'/>
           <input type="text" name='email' placeholder='Email' className='p-2 my-2 border-2 roudned-md bg-transparent focus: outline-none'/>
           <textarea name="message" placeholder="Message" rows="10" className='p-2 my-2 border-2 roudned-md bg-transparent focus: outline-none'/>

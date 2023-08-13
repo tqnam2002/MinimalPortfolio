@@ -3,7 +3,7 @@ export default [
     title: "SmashBruh",
     imgUrl: "/assets/OMMS.png",
     stack: ["HTML", "CSS", "JavaScript"],
-    link: "https://www.youtube.com/FvsuDLdT06o",
+    link: "https://www.youtube.com/watch?v=FvsuDLdT06o",
   },
   {
     title: "Mini Developer Portfolio",
