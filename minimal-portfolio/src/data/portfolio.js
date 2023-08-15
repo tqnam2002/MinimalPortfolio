@@ -1,6 +1,6 @@
 export default [
   {
-    title: "SmashBruh",
+    title: "SmashBruh - Online Movie Management System",
     imgUrl: "/assets/OMMS.png",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://www.youtube.com/watch?v=FvsuDLdT06o",
@@ -10,11 +10,5 @@ export default [
     imgUrl: "/assets/Mini.jpg",
     stack: ["React", "TailwindCSS", "Vite"],
     link: "https://github.com/tqnam2002/MinimalPortfolio",
-  },
-  {
-    title: "Leader of IT Team",
-    imgUrl: "/assets/VSA.jpg",
-    stack: ["Google AppScript", "Google Excel", "Google Analytics"],
-    link: "/assets/VSA Certificate of Contribution - Thái Quang Nam.jpg",
   },
 ];

@@ -7,7 +7,7 @@ function Volunteer() {
   return (
     <div>
       <div className='w-screen px-10 pt-10'>
-        <Title>Volunteer</Title>
+        <Title>Volunteering</Title>
       </div>
       <div className='flex flex-col md:flex-row items-center justify-center mt-10 mx-10'>
           <div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
