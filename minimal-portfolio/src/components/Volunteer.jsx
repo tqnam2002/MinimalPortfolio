@@ -6,7 +6,7 @@ import Title from './Title';
 function Volunteer() {
   return (
     <div>
-      <div className='w-screen px-10'>
+      <div className='w-screen px-10 pt-10'>
         <Title>Volunteer</Title>
       </div>
       <div className='flex flex-col md:flex-row items-center justify-center mt-10 mx-10'>

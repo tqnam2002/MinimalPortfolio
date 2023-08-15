@@ -13,7 +13,7 @@ export default [
   },
   {
     title: "Leader of IT Team",
-    imgUrl: "/assets/VSA Certificate of Contribution - Thái Quang Nam.jpg",
+    imgUrl: "/assets/VSA.jpg",
     stack: ["Google AppScript", "Google Excel", "Google Analytics"],
     link: "/assets/VSA Certificate of Contribution - Thái Quang Nam.jpg",
   },
