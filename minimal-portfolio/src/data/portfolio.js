@@ -11,4 +11,10 @@ export default [
     stack: ["React", "TailwindCSS", "Vite"],
     link: "https://github.com/tqnam2002/MinimalPortfolio",
   },
+  {
+    title: "Leader of IT Team",
+    imgUrl: "/assets/VSA Certificate of Contribution - Thái Quang Nam.jpg",
+    stack: ["Google AppScript", "Google Excel", "Google Analytics"],
+    link: "/assets/VSA Certificate of Contribution - Thái Quang Nam.jpg",
+  },
 ];
