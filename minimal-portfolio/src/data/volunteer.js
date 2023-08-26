@@ -2,16 +2,6 @@
 
 export default [
   {
-    time: "2/2023",
-    title: "Cơ Sở Bảo Trợ Xã Hội Madagui",
-    organizer: "Niigata Volunteer Center (NVC)",
-    position: "Supporter",
-    imgUrl: "/assets/Niigata.jpg",
-    link: "https://drive.google.com/drive/folders/144RuWTTXT6io3uPCEGSLnlFHye1lt4wO?usp=drive_link",
-    details:
-      "Love to work with kids, they always make me laugh one way or another. Their living condition is very unfortunate, they are homeless or orphan children. How cruel the world is when these children are left behind.",
-  },
-  {
     time: "10/2022",
     title: "The Inauguration Ceremony of Vietnamese - German University",
     organizer: "Presto Club - PR and Event Club",
